@@ -1,10 +1,14 @@
 ## Igor Keisuke 🎌
 
-💻  Bacharel em Sistemas de Informação;
+💻  Bacharel em Sistemas de Informação
 
-🐺  Desenvolvedor Backend
+🪐  21 anos;
 
-🪐  21 anos
+🐺  Desenvolvedor Backend;
+
+🪐  21 anos;
+
+👩🏻‍💻 Atualmente aprendendo php,laravel, react, node.js.
 <br>
 
 ---

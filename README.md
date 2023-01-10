@@ -2,11 +2,9 @@
 
 💻  Bacharel em Sistemas de Informação
 
-🪐  21 anos;
+🪐  21 anos
 
-🐺  Desenvolvedor Backend;
-
-🪐  21 anos;
+🐺  Desenvolvedor Backend
 
 👩🏻‍💻 Atualmente aprendendo php,laravel, react, node.js.
 <br>
